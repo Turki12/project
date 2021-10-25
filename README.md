@@ -1,2 +1,2 @@
-## project
-Make webpage by html .
+## simple project
+Make static webpage by html .
