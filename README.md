@@ -1,2 +1,2 @@
 # project
-Make webpage by html /css.
+Make webpage by html .
